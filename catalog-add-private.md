@@ -25,6 +25,16 @@ subcollection: account
 You can use private catalogs to onboard your own products and centrally manage access to them for all users in your account. 
 {: shortdesc} 
 
+{: #sw-software-type}
+
+Review the list of supported software:
+
+  * Helm charts
+  * Terraform templates
+  * OVA images deployed on VMware vCenter Server
+  * Virtual server images with Terraform deployed on VPC infrastructure
+  * Operators deployed on Red Hat OpenShift
+
 ## Before you begin
 {: #prereq-create}
 
